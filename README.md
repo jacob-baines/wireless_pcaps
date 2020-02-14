@@ -19,6 +19,10 @@ Yes, of course. I only ask the following:
 # What's with the directory structure?
 
 Data is stored by region. Since I'm likely the only one to ever contribute, there will be a lot of us/<state> pcaps. The idea behind the structure, however, is that different ISP control different regions which leads to different sets of devices. Similarly, different products are popular in different regions. I don't know, there needed to be a structure and this made sense to me.
+  
+# GitHub isn't really meant for file storage...
+
+k.
 
 # License 
 CC0 1.0 Universal
